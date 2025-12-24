@@ -151,10 +151,10 @@ class Kutuphane:
             seçim1 = input("\nSeçim Yapınız (1-2): ")
 
             if seçim1 == "1":
-                sıralama = sorted(self.kitaplar, key= lambda k: k.yıl)
+                sıralama = sorted(self.kitaplar, key= lambda k: k.yil)
 
             elif seçim1 == "2":
-                sıralama = sorted(self.kitaplar, key= lambda k: k.yıl, reverse= True)
+                sıralama = sorted(self.kitaplar, key= lambda k: k.yil, reverse= True)
 
             else:
                 print(Renk.kirmizi+"Geçersiz Giriş!")
