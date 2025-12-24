@@ -1,2 +1,2 @@
 # library
-Kitap adı, yazar ve yıla göre işlemleri sağlayan python tabanlı kütüphane sistemi
+Kitap adı, yazar ve yıla göre işlemleri sağlayan python tabanlı kütüphane sistemi.
